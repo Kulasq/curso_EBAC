@@ -8,17 +8,17 @@ header,
 section h2,
 section h3,
 form button {
-    font-family: 'Bungee', cursive;
-    font-weight: normal;
+    font-family: "Handjet", sans-serif;
+    font-weight: bold;
 }
 
 body, input, textarea {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Inconsolata", system-ui;
 }
 
 header {
     padding: 16px 0;
-    background-color: #182C61;
+    background-color: #001affc7;
     color: #ecf0f1;
 }
 
@@ -68,7 +68,7 @@ section h2 {
 }
 
 section {
-    color: #182C61;
+    color: #001affc7;
 }
 
 section p {
@@ -120,22 +120,22 @@ section h3 {
 }
 
 form button {
-    background-color: #182C61;
+    background-color: #001affc7;
     color: #ecf0f1;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #314e9e;
+    background-color: #2333c77e;
 }
 
 input:focus, textarea:focus {
-    outline-color: #182C61;
+    outline-color: #001affc7;
 }
 
 footer {
-    background-color: #182C61;
+    background-color: #001affc7;
     color: #ecf0f1;
     padding: 16px 0;
 }
