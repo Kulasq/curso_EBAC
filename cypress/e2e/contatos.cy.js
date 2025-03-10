@@ -14,7 +14,7 @@ describe('Testes de inclusão de novo contato', () => {
         cy.get('.adicionar').click()
 
         cy.contains('Teste').should('exist')
-        cy.contains('teste@gmail.com').should('exist')
+        cy.contains('teste@teste.com').should('exist')
         cy.contains('123456789').should('exist')
     })
 
