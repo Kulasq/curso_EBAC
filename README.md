@@ -1,71 +1,86 @@
-📚 curso_EBAC
+# 📚 Curso EBAC
 
-Repositório com exercícios práticos desenvolvidos durante o curso da EBAC (Escola Britânica de Artes Criativas e Tecnologia).
+Repositório com exercícios práticos desenvolvidos durante o curso da **EBAC (Escola Britânica de Artes Criativas e Tecnologia)**.
 
-Este repositório funciona como um laboratório de aprendizado, onde cada branch representa um módulo ou exercício específico abordando conceitos fundamentais de desenvolvimento web.
+Este projeto funciona como um **laboratório de aprendizado**, onde cada *branch* representa um módulo ou exercício específico abordando conceitos fundamentais de desenvolvimento web.
 
-🎯 Objetivo
+---
 
-Consolidar fundamentos de desenvolvimento front-end através de exercícios práticos envolvendo:
+## 🎯 Objetivo
 
-HTML
+Consolidar fundamentos de desenvolvimento **front-end** por meio de exercícios práticos envolvendo:
 
-CSS
+- HTML  
+- CSS  
+- JavaScript  
+- jQuery  
+- Bootstrap  
+- Ajax  
+- ES6  
+- Automação com Gulp  
+- Automação com Grunt  
+- Testes automatizados com Cypress  
+- Boas práticas de CSS  
 
-JavaScript
+---
 
-jQuery
+## 🌿 Estrutura do Repositório
 
-Bootstrap
+Cada *branch* contém um exercício independente:
 
-Ajax
+| Branch                | Descrição |
+|-----------------------|------------|
+| `boas_praticas_CSS`   | Organização, nomenclatura e boas práticas em CSS |
+| `exercício_css`       | Fundamentos de estilização com CSS |
+| `exercício_git`       | Conceitos básicos de versionamento com Git |
+| `exercicio_jquery`    | Manipulação do DOM com jQuery |
+| `exercicio_ajax`      | Requisições assíncronas com Ajax |
+| `exercicio_bootstrap` | Layout responsivo utilizando Bootstrap |
+| `exercicio_cypress`   | Testes automatizados com Cypress |
+| `exercicio_es6`       | Recursos modernos do JavaScript (ES6+) |
+| `exercicio_grunt`     | Automação de tarefas com Grunt |
+| `exercicio_gulp`      | Automação de tarefas com Gulp |
 
-ES6
+> Cada branch é isolada e representa um módulo específico do curso.
 
-Automação com Gulp e Grunt
+---
 
-Testes com Cypress
+## 🚀 Como visualizar um exercício
 
-Boas práticas de CSS
-
-🌿 Estrutura do Repositório
-
-Cada branch contém um exercício independente:
-
-Branch	Conteúdo
-boas_praticas_CSS	Organização, nomenclatura e boas práticas em CSS
-exercício_css	Fundamentos de estilização com CSS
-exercício_git	Conceitos básicos de versionamento com Git
-exercicio_jquery	Manipulação do DOM com jQuery
-exercicio_ajax	Requisições assíncronas com Ajax
-exercicio_bootstrap	Layout responsivo utilizando Bootstrap
-exercicio_cypress	Testes automatizados com Cypress
-exercicio_es6	Recursos modernos do JavaScript (ES6+)
-exercicio_grunt	Automação de tarefas com Grunt
-exercicio_gulp	Automação de tarefas com Gulp
-
-Cada branch é isolada e representa um exercício específico do curso.
-
-🚀 Como visualizar os projetos
-
-Acesse a lista de branches.
-
-Selecione a branch desejada.
-
-Faça o clone ou download do projeto correspondente.
+Para acessar um exercício específico:
 
 git clone -b nome-da-branch https://github.com/seu-usuario/curso_EBAC.git
 
-📌 Observações
+Ou, diretamente pelo GitHub:
 
-Os projetos são simples e focados no aprendizado.
+Clique no seletor de branches.
 
-Não representam aplicações finais ou produtos prontos.
+Escolha a branch desejada.
 
-Foram desenvolvidos durante a fase inicial de formação em desenvolvimento web.
+Navegue pelos arquivos do exercício correspondente.
 
-📖 Contexto
+## 📌 Observações
 
-Este repositório marca o início da minha jornada na programação, onde consolidei os primeiros conceitos de estruturação, estilização, lógica e versionamento de código.
+- Os projetos são simples e focados no aprendizado.
 
-Ele serve como registro de evolução técnica e prática contínua.
+- Não representam aplicações finais ou produtos prontos.
+
+- Foram desenvolvidos durante a fase inicial da minha formação em desenvolvimento web.
+
+- Este repositório serve como registro de evolução técnica e prática contínua.
+
+## 📖 Contexto
+
+Este repositório marca o início da minha jornada na programação, onde consolidei conceitos fundamentais de:
+
+- Estruturação com HTML
+
+- Estilização com CSS
+
+- Lógica com JavaScript
+
+- Versionamento com Git
+
+- Organização e automação de projetos
+
+Ele representa minha base técnica e o ponto de partida para projetos mais estruturados e complexos.
